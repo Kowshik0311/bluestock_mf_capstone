@@ -1,0 +1,7 @@
+Fund,CAGR_%,Sharpe_Ratio,Sortino_Ratio,Max_Drawdown_%,Alpha,Beta,cagr_rank,sharpe_rank,dd_rank,Score
+HDFC_Top_100,18.34,0.7647,0.926,-45.02,0,1,6.0,6.0,6.0,100.0
+Kotak_Bluechip,14.76,0.526,0.6248,-38.05,0,1,5.0,5.0,4.0,78.33
+Nippon_Large_Cap,13.18,0.4371,0.532,-42.28,0,1,4.0,4.0,5.0,71.67
+ICICI_Bluechip,12.7,0.4333,0.5316,-34.83,0,1,3.0,3.0,2.0,45.0
+Axis_Bluechip,6.35,-0.5849,-0.3241,-1.39,0,1,2.0,2.0,1.0,28.33
+SBI_Bluechip,-1.85,-0.8339,-0.4884,-37.48,0,1,1.0,1.0,3.0,26.67
