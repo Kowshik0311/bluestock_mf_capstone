@@ -69,7 +69,7 @@ Tableau Public: https://public.tableau.com/app/profile/k.v.kowshik.athreya/viz/B
 - NSE/BSE benchmark indices
 
 ## Author
-**Kowshik Athreya**
+**K V Kowshik Athreya**
 - GitHub: github.com/kowshik0311
 - LinkedIn: linkedin.com/in/kowshik-athreya
 - Email: kowshikathreya2004@gmail.com
