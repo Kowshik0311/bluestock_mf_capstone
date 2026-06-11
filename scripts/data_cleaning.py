@@ -67,8 +67,9 @@ def clean_nav_history(filepath: Path) -> pd.DataFrame:
 
     # Forward-fill missing NAV
     nav = nav.set_index("date")
+    nav = nav[~nav.index.duplicated(keep="first")]
     nav = nav.reindex(pd.date_range(nav.index.min(),
-                                     nav.index.max(), freq="B")).ffill()
+                                 nav.index.max(), freq="B")).ffill()
     nav = nav.reset_index().rename(columns={"index": "date"})
 
     # Validate NAV > 0
